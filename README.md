@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+#HTML-Snapshot
+
+This is a sample react application which uses [Single File](https://github.com/gildas-lormeau/SingleFile) to create a PDF out of an HTML file.
+SingleFile is a Web Extension (and a CLI tool) compatible with Chrome, Firefox (Desktop and Mobile), Microsoft Edge, Safari, Vivaldi, Brave, Waterfox, Yandex browser, and Opera. This react app is using its extracted JS to do exactly same but withot you needing to install any extension or use browser specific automation tools like selenium.
+
+It can be extended into its own library or used directly in an app as shown in this demo.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
